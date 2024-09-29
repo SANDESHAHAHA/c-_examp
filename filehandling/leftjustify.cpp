@@ -8,7 +8,7 @@ int main()
     cout.unsetf(ios::left);
     cout.width(90);
     cout<<"This text is right justified."<<endl;
-    return 0;
+    return 0; 
     //by default right justified hunxa
-    
-}
+
+}  
