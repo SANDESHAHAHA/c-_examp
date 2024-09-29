@@ -16,6 +16,6 @@ int main()
         cout<<"Incorrect output"<<endl;
         cin.ignore(10,'\n');
     }
-    cout<<"Integer is : "<<x<<endl;
+    cout<<"Integer is : "<<x<<endl; 
     return 0;
 }
